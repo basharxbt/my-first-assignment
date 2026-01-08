@@ -241,3 +241,40 @@ list-style: none;
 
     font-weight: 400;
 }
+
+.early-access{
+
+    max-width: 1360px;
+    height: 384px;
+    padding: 40px;
+    background-color: #F7F6F2;
+    text-align: center;
+    margin: 2px auto;
+}
+
+.early-info h2{
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 80px;
+
+}
+
+.early-info p{
+    font-size: 16px;
+    color: #627382;
+
+    line-height: 24px;
+    padding-top: 16px;
+
+}
+
+.early-info button{
+    width: 194px;
+    height: 52px;
+    text-align: center;
+   margin-top: 24px;
+    background-color: #229e56;
+    color: white;
+    font-size: 16px;
+    font-weight: 600px;
+}
