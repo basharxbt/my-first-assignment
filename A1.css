@@ -41,3 +41,12 @@ justify-content: space-between;
 text-decoration: none;
 }
 
+.hero-container{
+   background-image: url(./B13-A01-Knowledge-Vault/assets/hero-bg.png); 
+   height: 674px;
+   
+}
+.not{
+    display: block;
+}
+
